@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # Ruta del notebook
-notebook_path = "archivo.ipynb"
+notebook_path = "main.ipynb"
 
 # Verificar que el archivo existe
 if not os.path.exists(notebook_path):
